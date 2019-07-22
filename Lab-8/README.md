@@ -35,7 +35,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 3.  Create a new project by clicking on `File` > `New Project`.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-new-project.png"/>
+> <img src="https://raw.githubusercontent.com/bleonardb3/master/DS_POT_07-24/Lab-8/images/SelectNewProject.png"/>
 
 ### Step 4.  Select `Version Control`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-new-version-control-project.png"/>
