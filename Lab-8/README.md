@@ -62,7 +62,7 @@ Consider this notebook your *data playground*.  This is the place where you can 
 ### Step 11.  Click the `app.R` file in the files pane in the lower right of the RStudio IDE
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/Clickapp.r.png"/>
 
-### Step 12.  Click the little black downward arrow next to `Run App` (green triangle) in the top right of the main panel to run the app.  Select `Run External` 
+### Step 12.  Click the little black downward arrow next to `Run App` (green triangle) in the top right of the main panel to run the app from a new browser tab.  Select `Run External`. Click on the green triangle.  
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/ClickonRunExternal.png"/>
 
 ### Step 13.  In the running app, click on some of the rows in the table and vet some of the records.
