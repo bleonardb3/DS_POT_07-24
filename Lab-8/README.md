@@ -38,18 +38,18 @@ Upon completing the lab, you will know how to:
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/SelectNewProject.png"/>
 
 ### Step 4.  Select `Version Control`.
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-new-version-control-project.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/SelectVersionControl.png"/>
 
 ### Step 5.  Select `Git`.
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select-git-project.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/SelectGit.png"/>
 
 ### Step 6.  Fill in git repository details using the URL `https://github.com/bleonardb3/DS_POT_07-24` and press `Create Project`.
-> <img src="https://github.com/bleonardb3/DS_POT_05-09/blob/master/Lab-7/images/CreateProject.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/CreateProject.png"/>
 
-### Step 7.  In the files pane in the lower right of the RStudio IDE, click `Lab-7`.
-> <img src="https://github.com/bleonardb3/DS_POT_05-09/blob/master/Lab-7/images/Lab7.png"/>
+### Step 7.  In the files pane in the lower right of the RStudio IDE, click `Lab-8`.
+> <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/ClickLab8.png"/>
 
-### Step 8.  Click the `connection.R` file and fill in your DB2 Warehouse on Cloud connection details.   You can find these from one of the previous labs.   Don't forget to set vetting.table to 'FEMALE_HUMAN_TRAFFICKING'.   Save the file.
+### Step 8.  Click the `connection.R` file and fill in your DB2 Warehouse on Cloud connection details.   You can find these from one of the previous labs.   Don't forget to replace "BLB" with your initials.   Save the file.
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/RStudio-lab3-connection.png"/>
 
 ### Step 9.  Click the `dashConnectAndInteractInR.Rmd` file in the files pane in the lower right of the RStudio IDE. 
@@ -60,18 +60,15 @@ Upon completing the lab, you will know how to:
 
 Consider this notebook your *data playground*.  This is the place where you can test out new ideas, connect and fuse various data sets and try out different visualizations.  If you're happy with something in your notebook, then go ahead and make it available to interact with in your app.
 ### Step 11.  Click the `app.R` file in the files pane in the lower right of the RStudio IDE
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-shiny-app.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/Clickapp.r.png"/>
 
-### Step 12.  Click the `Run App` (green triangle) in the top right of the main panel to run the app.  The app should appear in the Viewer pane in the bottom right corner of the IDE.  If it does not, select the little black downward pointing triangle and set to Run in Viewer Pane.
-> <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/AppinViewerPane.png"/>
+### Step 12.  Click the little black downward arrow next to `Run App` (green triangle) in the top right of the main panel to run the app.  Select `Run External` 
+> <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/ClickonRunExternal.png"/>
 
-### Step 13.  Click the little black downward pointing triangle next to the  `Run App` (green triangle) in the top right of the main panel to run the app in another browser window (Run External).
-> <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/AppinExternalPane.png"/>
-
-### Step 14.  In the running app, click on some of the rows in the table and vet some of the records.
+### Step 13.  In the running app, click on some of the rows in the table and vet some of the records.
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/AppinExternalPanewithVetting.png"/>
 
-### Step 15.  Interact with your app and consider ways it can be improved.
+### Step 14.  Interact with your app and consider ways it can be improved.
 
 Notice how your app reacts as you interact with it.  Try out the search in the upper right corner.  Try the filters above the various columns.  Click on the items in the pie graph legend as well as the various wedges in the pie.   Click on some of the rows in the table and save your vettings.  As the vettings are saved, they are persisted back to DB2 Warehouse (you can verify this yourself by queying your DB2 Warehouse instance).  Now, go back to your Lab-2 notebook and re-run the ML predictions and see the changes reflected there, in DB2 Warehouse and in the UI (you'll need to restart your shiny app to pick up the changes).   Or you might consider scheduling Lab-2 to run on the hour to pick up any changes....
 
