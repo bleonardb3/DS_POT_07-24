@@ -66,7 +66,7 @@ Consider this notebook your *data playground*.  This is the place where you can 
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/ClickonRunExternal.png"/>
 
 ### Step 13.  In the running app, click on some of the rows in the table and vet some of the records.
-> <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/AppinExternalPanewithVetting.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/HumanTraffickingDisplay.png"/>
 
 ### Step 14.  Interact with your app and consider ways it can be improved.
 
