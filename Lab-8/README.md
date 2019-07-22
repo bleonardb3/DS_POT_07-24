@@ -43,7 +43,7 @@ Upon completing the lab, you will know how to:
 ### Step 5.  Select `Git`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select-git-project.png"/>
 
-### Step 6.  Fill in git repository details using the URL `https://github.com/bleonardb3/DS_POT_05-09` and press `Create Project`.
+### Step 6.  Fill in git repository details using the URL `https://github.com/bleonardb3/DS_POT_07-24` and press `Create Project`.
 > <img src="https://github.com/bleonardb3/DS_POT_05-09/blob/master/Lab-7/images/CreateProject.png"/>
 
 ### Step 7.  In the files pane in the lower right of the RStudio IDE, click `Lab-7`.
